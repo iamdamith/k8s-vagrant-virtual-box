@@ -2,6 +2,8 @@
 
 Create a local kubernetes cluster using virtualbox. A modification of the great work [danielepolencic](https://github.com/danielepolencic) did in his [gist](https://gist.github.com/danielepolencic/ef4ddb763fd9a18bf2f1eaaa2e337544). and [LocusInnovations](https://github.com/LocusInnovations/k8s-vagrant-virtualbox) did in his modifications
 
+Please use [install-virtualbox-6-with-vagrant-in-ubuntu-mint](https://gist.github.com/iamdamith/c853014dc8321b6355a3289a3f2ba0f6) gist if you need to install virtual box and the vagrant.
+
 
 The vagrant file will do the following:
 1.  Provision all local VMs using VirtualBox
